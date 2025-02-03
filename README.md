@@ -1,4 +1,6 @@
-![Rajesh Das](https://raw.githubusercontent.com/rajeshmit93046/rajeshmit93046/main/profile.png)
+
+
+  <img src="https://raw.githubusercontent.com/rajeshmit93046/rajeshmit93046/main/profile.png" width="170" alt="Rajesh Das">
 
 # 💫 About Me:
 
