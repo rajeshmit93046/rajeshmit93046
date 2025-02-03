@@ -1,3 +1,5 @@
+![Rajesh Das](https://raw.githubusercontent.com/rajeshmit93046/rajeshmit93046/main/profile.png)
+
 # 💫 About Me:
 
 👋 Hi, I'm **Rajesh Das**, a passionate **Data Engineer & Analyst** with experience in **Python, SQL, Snowflake, OAS, and TIBCO Spotfire**. I enjoy solving complex data challenges, building automation solutions, and exploring AI-driven analytics.
